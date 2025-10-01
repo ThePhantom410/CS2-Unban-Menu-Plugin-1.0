@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- If you have CounterStrikeSharp.API dll, add a Reference here or add as NuGet if available -->
+    <!-- Example Reference (uncomment and adjust HintPath if needed):
+    <Reference Include="CounterStrikeSharp.API">
+      <HintPath>..\..\..\addons\counterstrikesharp\CounterStrikeSharp.API.dll</HintPath>
+    </Reference>
+    -->
+    <PackageReference Include="MySql.Data" Version="8.1.0" />
+  </ItemGroup>
+</Project>
