@@ -12,7 +12,8 @@ Die Library ist als Ausgangspunkt gedacht — je nach CounterStrikeSharp-Version
 4. Starte den Server. Beim ersten Start wird `addons/counterstrikesharp/configs/unbanmenu/config.json` erstellt.
 5. Als Root-Admin im Spiel `/openunbanmenu` (oder der in der config hinterlegte Command) ausführen.
    
-##🚀 Anleitung: UnbanMenuPlugin auf Replit kompilieren
+## 🚀 Anleitung: UnbanMenuPlugin auf Replit kompilieren
+
 1. Neues Projekt erstellen
 
 Gehe auf https://replit.com
